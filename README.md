@@ -20,11 +20,58 @@ Feel like you've watched everything, have searched through every streaming platf
 
 #### Tech stack
 
-- REACT
-- Express
+**_Front-end:_**
+
+- REACT.JS
+- HTML
+- CSS
+- JavaScript
+- Material UI
+
+**_Back-end:_**
+
+- ExpressJS
 - Node.js
+- Firebase
+
+**_Database:_**
+
 - MongoDB
-- Jest - Frontend testing
+
+**_Front-end testing:_**
+
+- Jest
+
+**_Back-end testing:_**
+
+- Mocha
+
+**_Back-end deployment:_**
+
+- Heroku
+
+**_Front-end Deployment:_**
+
+- Netlify
+
+**_Project Management Tools:_**
+
+- Trello
+- Discord
+
+**_Design Tools:_**
+
+- Figma
+- AdobeXD
+
+**_DevOps Tools:_**
+
+- Github
+- Heroku
+
+**_IDE:_**
+
+- Visual Code Studio
 
 #### Dataflow Diagram
 
