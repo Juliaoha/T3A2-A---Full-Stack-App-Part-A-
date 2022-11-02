@@ -82,3 +82,11 @@ Feel like you've watched everything, have searched through every streaming platf
 #### Wireframes for multiple standard screen sizes, created using industry-standard software
 
 #### Screenshots of your Trello board throughout the duration of the project
+
+<img src="./docs/trello_one.png">
+
+<img src="./docs/trello_two.png">
+
+<img src="./docs/trello_three.png">
+
+<img src="./docs/trello_four.png">
