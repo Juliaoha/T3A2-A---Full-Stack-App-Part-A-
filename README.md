@@ -27,6 +27,7 @@ Feel like you've watched everything, have searched through every streaming platf
 - CSS
 - JavaScript
 - Material UI
+- Axios
 
 **_Back-end:_**
 
