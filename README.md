@@ -76,7 +76,7 @@ Feel like you've watched everything, have searched through every streaming platf
 #### Dataflow Diagram
 
 #### Application Architecture Diagram
-
+![AAD](docs/AAD.png)
 #### User Stories
 
 #### Wireframes for multiple standard screen sizes, created using industry-standard software
