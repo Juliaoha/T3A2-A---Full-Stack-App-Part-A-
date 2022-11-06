@@ -140,10 +140,7 @@ They don’t have a place that tells them what the latest films are.
 <img src="./docs/homepage_desktop.png">
 <img src="./docs/sign_up_desktop.png">
 <img src="./docs/recommendations_page_desktop.png">
-
-#### Tablet
-
-#### Phone
+<img src="./docs/profile_page.png">
 
 ### Screenshots of your Trello board throughout the duration of the project
 
