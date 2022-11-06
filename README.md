@@ -134,6 +134,22 @@ _What’s the main barrier to achieving this goal?_
 
 They don’t have a place that tells them what the latest films are.
 
+#### User Stories
+
+Once we were able to work out what features were best for our users through the personas we set about creating some user stories. First, we created some epics to encompass the features at a high level. Each epic has stories attached to them that break down the tasks required to implement the required functionality. each story has some Acceptance Criteria influenced by the personas, to make sure that there is a need for what we are building. Here is an example of a few of our Epics:
+
+<img src="./docs/content_pages.png">
+<img src="./docs/suggestions.png">
+<img src="./docs/user_profiles.png">
+
+And here are examples of some of our user stories
+
+<img src="./docs/personal_watchlist.png">
+<img src="./docs/add_friends.png">
+<img src="./docs/profile_page.png">
+
+Here is a link to our Trello [here](https://trello.com/b/3S1sJngX/kinogo)
+
 ### Wireframes for multiple standard screen sizes, created using industry-standard software
 
 #### Desktop
