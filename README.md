@@ -82,8 +82,9 @@ The target audience is anyone who has an interest in Movies and Television - fro
 - Visual Code Studio
 
 ### Dataflow Diagram
+![DFD](docs/DFD.png)
 
-### Application Architecture Diagram
+#### Application Architecture Diagram
 
 ![AAD](docs/AAD.png)
 
