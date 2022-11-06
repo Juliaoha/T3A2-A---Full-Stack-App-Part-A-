@@ -93,6 +93,15 @@ The target audience is anyone who has an interest in Movies and Television - fro
 
 #### Wireframes for multiple standard screen sizes, created using industry-standard software
 
+##### Desktop
+
+<img src="./docs/homepage.png">
+<img src="./docs/sign_up.png">
+
+#### Tablet
+
+#### Phone
+
 #### Screenshots of your Trello board throughout the duration of the project
 
 <img src="./docs/trello_one.png">
