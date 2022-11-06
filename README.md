@@ -157,10 +157,7 @@ Here is a link to our Trello [here](https://trello.com/b/3S1sJngX/kinogo)
 <img src="./docs/homepage_desktop.png">
 <img src="./docs/sign_up_desktop.png">
 <img src="./docs/recommendations_page_desktop.png">
-
-#### Tablet
-
-#### Phone
+<img src="./docs/profile_page.png">
 
 ### Screenshots of your Trello board throughout the duration of the project
 
